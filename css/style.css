@@ -1,0 +1,30 @@
+
+header{
+    background-color: blue;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-size: 2.5em;
+    margin-top: 0.11em;
+    margin-bottom: 0em;
+}
+h3{
+    margin-top: 0em;;
+}
+p{
+    margin: 0;
+}
+
+#booleaner-icon{
+    height: 5em;
+    text-align: left;
+}
+
+#booleaner-background{
+    background-image: url("../img/pattern.png");
+}
